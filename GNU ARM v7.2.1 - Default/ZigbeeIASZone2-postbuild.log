@@ -1,0 +1,153 @@
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
+INFO:root:Creation of 32 bit srec file: "C:/SiliconLabs/SimplicityStudio/v5/developer/toolchains/gnu_arm/7.2_2017q4/bin/arm-none-eabi-objcopy" --srec-forceS3 -O srec "ZigbeeIASZone2.axf" "ZigbeeIASZone2.s37"
+INFO:root:Creation of gbl file: C:\SiliconLabs\SimplicityStudio\v5\developer\adapter_packs\commander\commander.exe gbl create "ZigbeeIASZone2.gbl" --app "ZigbeeIASZone2.s37" --device EFR32MG21A020F512IM32
+INFO:root:Creation of ota file:  echo Image-builder not invoked since 'OTA Bootload Cluster Policy plugin' is not enabled
